@@ -1,9 +1,9 @@
-# StarsHacker
+# RinoRika
 A Minecraft Hacker,use hack client like Liquidbounce,FDPClient etc.
 Also,i am making some modified Liquidbounce
 and many bypasses!
 Thanks for support me!
-## Ethereal
+## Aerolite
 A Advanced Modified Liquidbounce
 Bypass many servers like Hyt,Hypixel,Blocksmc etc.
 And many fashion anticheats: AAC,NCP,Verus,Watchdog etc.
